@@ -1,0 +1,18 @@
+---
+author: chris
+comments: true
+date: 2007-09-26 04:23:58+00:00
+layout: post
+slug: textmate
+title: TextMate
+wordpress_id: 568
+categories:
+- General
+---
+
+So I've started to try and use the Mac for everything possible. Of course, web surfing is an easy one, along with that comes Google mail, particularly since all of my domains e-mail is handled by Google Apps for Domains. Good stuff. Now I'm checking out how TextMate has the ability to edit blog posts offline and upload them to the blog. Seems cool enough to me, let's see how it goes!
+
+
+<!-- more -->
+
+If you are seeing this, I guess it worked!

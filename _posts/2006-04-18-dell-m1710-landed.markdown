@@ -1,0 +1,27 @@
+---
+author: chris
+comments: true
+date: 2006-04-18 16:03:16+00:00
+layout: post
+slug: dell-m1710-landed
+title: Dell M1710 Landed
+wordpress_id: 293
+categories:
+- Technology
+- Video Games
+---
+
+Dell has released their new gaming laptop, the M1710. Packed with goodness, including a 512MB 7900 GTX, 666 MHz DDR2, 17" 1920x1200 display, SATA drives, Audigy HD audio, Core Duo 2.1 GHz, oh the list goes on. So does the price, this monster spec'd out the way I'd like it was $3900. WTF. I'm sure it's a lot more machine than my XPS Gen 2, but lordy that's a lot of money. I wonder how many previous gen owners are wondering if the slick silver keyboard is part replacement compatible with the older model. I know I am... :)
+
+![m1710b.JPG](/images/uploads/2006/04/m1710b.JPG)
+
+![m1710a.JPG](/images/uploads/2006/04/m1710a.JPG)
+
+That red is sexy, yo.
+
+Update (reviews added:)
+
+[http://www.mobilityguru.com/2006/04/18/dell_xps_m1710/](http://www.mobilityguru.com/2006/04/18/dell_xps_m1710/)
+[ http://www.notebookreview.com/default.asp?newsID=2887&review;=Dell+XPS+M1710](http://www.notebookreview.com/default.asp?newsID=2887&review=Dell+XPS+M1710)
+[ http://reviews.cnet.com/Dell_XPS_M1710/4505-3121_7-31789682.html?tag=cnetfd.sd](http://reviews.cnet.com/Dell_XPS_M1710/4505-3121_7-31789682.html?tag=cnetfd.sd)
+[ http://www.pcmag.com/article2/0,1895,1950072,00.asp](http://www.pcmag.com/article2/0,1895,1950072,00.asp)

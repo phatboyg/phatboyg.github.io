@@ -1,0 +1,18 @@
+---
+author: chris
+comments: true
+date: 2005-09-15 17:36:38+00:00
+layout: post
+slug: iis7
+title: IIS7
+wordpress_id: 162
+categories:
+- Software Development
+---
+
+IIS7 is coming, and it's about time. How did Microsoft describe this version of IIS? They took the best of IIS and the best of Apache, and put it into IIS7. The metabase is dead (RIP!) and everything is now handled via web.config files (think: h t a c c e s s ). These files offer full control at the directory level regarding every aspect of the IIS web server. Default pages, modules loaded, etc. Yes, modules loaded. There is no longer anything built into IIS7 by default, everything is a module and communicates with the web server via a published API. Some of the modules include 'DefaultPageHandler' and 'AnonymousAccessModule', which do as expected. Without them, no default page handling is provided and no anonymous users can access the system.
+
+This is good for multiple reasons. It limits touch points where malicious programs could find a way into your application. It also reduces the memory usage of the server. It also allows application developers to build modules that are on even footing with those built by MS. This means that if you want to have a custom security handler for the entire application, you can build one and make it part of IIS without requiring operations to make changes to IIS metabase settings. This is awesome, because deployment of web applications can often be a real pain in the ass due to custom settings on a dozen different web servers. Now, ops can just point the web server at a cached folder from a file server and updates are fast and easy in a single place.
+
+I'm sure there is more to come on IIS7, but this feature alone makes IIS7 the premium web site development platform. It offers all the object power of IIS, but finally is built upon the proven architecture of Apache offering fully modular functionality. In fact, I could see PHP becoming a language that could be a native extension module offering far more functionality than before on the Windows platform. Of course, I'm at a Microsoft conference and .NET 2.0 is the way, the light... ;)
+

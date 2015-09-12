@@ -1,0 +1,15 @@
+---
+author: chris
+comments: true
+date: 2006-08-05 04:50:38+00:00
+layout: post
+slug: new-host
+title: New Host
+wordpress_id: 372
+categories:
+- General
+---
+
+I've moved the site to a new server, so if you're seeing this, you're already here. If you aren't seeing this, well, you're still pointing to the old DNS zone. Wait, you don't care if you can't see. Wait, I'm just being retarded at this point.
+
+Anyway, new server, hopefully faster and at least as reliable as the old server. :)

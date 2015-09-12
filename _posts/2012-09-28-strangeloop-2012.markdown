@@ -1,0 +1,183 @@
+---
+author: chris
+comments: true
+date: 2012-09-28 20:08:32+00:00
+layout: post
+slug: strangeloop-2012
+title: StrangeLoop 2012
+wordpress_id: 1228
+categories:
+- Software Development
+---
+
+This past weekend I attended my 2nd StrangeLoop conference. StrangeLoop is an annual conference held in St. Louis, MO and for the last four years it has managed to draw some impressive talent. Unlike other events I attend, StrangeLoop is an independent conference and is not dominated by a single platform, technology, or language. The quality and level of content is also high, making StrangeLoop a place where introductory sessions are frowned upon -- attendees want deep, intriguing sessions where experienced practitioners can learn _new_ things. Attendees at StrangeLoop are commonly pushing the leading edge, and the session topics are state of the art, sometimes on the edge of redefining software development in the coming years.
+
+
+
+
+So how was it?
+
+
+
+
+## Day 1
+
+
+
+
+### Opening Keynote: VoltDB, Michael Stonebraker
+
+
+
+
+In the first thirty minutes, I had a strong sense that the conference was off to a rough start. In what was clearly a product-focused talk, the VoltDB CTO made a weak case for ACID, eliciting frequent groans from the audience. Make no mistake, Stonebraker is a really smart guy, but too much of his time was spent bashing other databases (if you can technically call eventually consistent storage systems without a query language databases). As an opening keynote for the conference, this was the worst possible choice. Now, I have followed VoltDB since the early bits, and was impressed with the lock-free approach that serializes all operations, but this talk didn't spend enough time on the benefits of VoltDB.
+
+
+
+
+### Get a Leg Up with Twitter Bootstrap
+
+
+
+
+For the first actual session of the day, Howard Lewis Ship took the audience on a tour of Twitter Bootstrap, which is rapidly becoming the File, New Web Site project template. In fact, I was glad to see that entire gallery of customized Bootstrap templates -- hopefully now all Bootstrap originated sites won't all look the same. I'm a fan of Bootstrap, and this was a solid introduction, but myself (and the rest of the audience I'm sure) was hoping for a bit more depth.
+
+
+
+
+### Software Architecture using ZeroMQ
+
+
+
+
+My expectations were high on this session, and I was really hoping to get some insight into 0MQ, and how to build systems using it as the authors intended. While Pieter Hintjens provided some high-level coverage of ZeroMQ, I felt this session should have been called "Software Architecture 101" and could apply to using any technology stack. I gained zero insight into ZeroMQ beyond what the executive summary already covered.
+
+
+
+
+I was really starting to doubt my remaining session choices at this point, the first two were boring following a bad keynote. So I reached out to some friends to hear their experiences. This altered my scheduled for the rest of the day.
+
+
+
+
+### A Whole New World by Gary Bernhardt
+
+
+
+
+This session was a short, light-hearted lunch session with a total Rick-roll ending. At least I ate my lunch, took a break, and make a couple of phone calls. I got blocked out on the Twitter Zipkin session due to space constraints, but I heard it was nothing special, so I glad didn't miss anything.
+
+
+
+
+### Building an Impenetrable Zookeeper
+
+
+
+
+Finally, an in-depth session given by a member of the team providing commercial support -- if only I used Zookeeper. I understand what Zookeeper does, and the subject matter dealt with the type of issues organizations encounter trying to run it. I found this very interesting, particularly since I have a good understanding of distributed consensus and configuration -- and this is _not_ an easy nut to crack. I came away with some interesting notes that I'll keep in mind when I create systems that either interact with Zookeeper, or perhaps when I create yet-another-open-source-project (Topshelf Bartender perhaps!). 
+
+
+
+
+### Graph: composable production systems in Clojure
+
+
+
+
+What Jason Wolfe (of Prismatic, the news aggregator) offered up was a refreshing approach to building a functional container. Graph is comparable to Guice or Dagger, and provides a declarative approach to system composition. While at the lowest level it seems to offer the same features as an IOC container, the way it was presented and explained was really nice. I enjoyed this session, and took away a few notes for my own use. I also gained a greater fondness for Clojure, which was a recurring theme as the sessions continued.
+
+
+
+
+### The Database as a Value by Rich Hickey
+
+
+
+
+So having done well with a Clojure talk, I decided to take in another one from the man himself, the author of Closure. The talk on Datomic was a nice realization that we are reaching a level where immutable databases are available and usable. Datomic is sweet, and how it handles IO and manages to spread the Live Index to multiple nodes for fast access is clever. I enjoyed this talk and look forward to seeing the ideas in Datomic shape a new wave of immutable storage systems (I'm not sure it's a database, despite the intense conversation at the pre-party on that very subject). And again, an increasing appreciation for Clojure.
+
+
+
+
+That's how Day 1 ended for me, on a good note. So we went to Pappy's BBQ and managed to snag one of the last remaining racks of ribs (apparently they sell out fairly early, while in line the chicken, turkey, and chopped brisket sold out). After dinner, we returned to the hotel to continue working through some code that I'd been toying with throughout the day (FeatherVane-related, if you were curious).
+
+
+
+
+## Day 2
+
+
+
+
+### Computer Like the Brain by Jeff Hawkins
+
+
+
+
+This talk was almost scary. The depth of knowledge on the human brain is staggering. At one point, I saw a tweet suggesting that the Terminator himself was about to pop onto the stage and tell Hawkins to abandon his research for the sake of humanity. Yes, it was that scary. The way his company has built out models that match the human brain is impressive, and the results of some of their predictive systems were very close to reality. However, predicting the future is hard, and it's easy to get it wrong. While many systems have promised to give us brain-like capabilities, most if not all of them have been limited in applicability or flat out failed when generalized. I suppose that is actually good for us (mankind).
+
+
+
+
+### Y Not? Adventures in Functional Programming
+
+
+
+
+Jim Weirich is pretty well known (well, apparently I don't know anybody -- a joke that never ended during the conference) and he took the audience on a ride using Clojure to explain the Y-Combinator. When the talk started, he promised a fun ride that would likely be inapplicable to anything any of us does in our daily jobs. And he was right, it was fun! Live coding works when the presenter can do it and do it well, and this was a great session. Very enjoyable, the day was off to a great start!
+
+
+
+
+### Runaway compexity in Big Data and a plan to stop it.
+
+
+
+
+Last year, Nathan Marz open-sourced Twitter Storm during his session at StrangeLoop 2011, and it was an impressive system (written in Clojure, big shock). The real-time analytics capabilities of Storm are slick, and it sounds like it's only gotten better over the past year. I was hoping for great things again this year, however, what I found was a bit of a reminder of a talk in 2008. At QCon San Francisco in 2008, Greg Young gave a talk about Unleashing your Domain Model, covering how insert-only data stores, event sourcing, and real-time projection of data into views can benefit real-time applications. It seems like even today these ideas are flowing through the minds of the real-time web properties.
+
+
+
+
+### Eventually Consistent Data Structures by Sean Cribbs
+
+
+
+
+This was an eye-opening talk about newly defined data structures that enable concurrent updates that are eventually consistent. As more distributed systems are being built, the ability to perform concurrent updates on records that resolve conflicts easily is needed. As a big fan of algorithms, I found the way these data structures were assembled very interesting -- despite their very specific purpose. I had originally planned on attending Oleg Kiselyov's talk on Guessing Lazily, but the presenter was spending too much time flipping through random snippets of code that was very hard to follow, making my ability to grasp what was being done difficult. Which is a bummer, because I saw quick segments of parser combinator code, which I rely on heavily in my parsers.
+
+
+
+
+### Taking Off the Blindfold
+
+
+
+
+This talk was awesome, and Bret Victor had people cheering. The flow of his presentation where he shared with us his vision for a dynamic, interactive IDE had some developers just screaming for more. The high point for me was one of my favorite childhood memories -- taking the entire bin of Legos and dumping it out on the floor. By getting everything out in front of you, you needn't think about what you're going to build in a vacuum, you can see, touch, and draw items from the random chaos laid out before you. Some of the ideas here seemed to redefine what should be expected of an IDE.
+
+
+
+
+### The State of JavaScript
+
+
+
+
+Yes, Brendan Eich, the inventor of JavaScript, laid out the awesome coming in ECMAScript 6. Some of the proposed features are awesome (and strangely enough available in the nightly FireFox builds), while some features have me concerned. CoffeeScript has clearly influenced some features, and I sensed a subtle Microsoft influence in some of the language and keyword choices. I was glad to see byte code clearly off the table, but disappointed to see macros up for possible inclusion. Brendan is an incredible presenter, and you could hear the passion in his voice.
+
+
+
+
+With that, the conference was wrapped. I had a great time, had some great conversations, and really enjoyed some of the sessions. It's great to be able to take the time to attend, listen to, and appreciate content once in a while without worrying about my own presentation. If you can make the time next year, and the content looks good, I highly recommend StrangeLoop!
+
+
+
+
+ 
+
+
+
+
+ 

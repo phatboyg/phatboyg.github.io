@@ -1,0 +1,13 @@
+---
+author: chris
+comments: true
+date: 2006-04-04 01:57:08+00:00
+layout: post
+slug: 66-dirge
+title: 66 Dirge
+wordpress_id: 283
+categories:
+- EQii
+---
+
+After a seriously busy couple of weeks, I got some time and ground out level 66. I got a couple of new spells, the major of which is an upgrade to Clara's. For once, even the Adept I of the new spell is better than the Adept 3 of the previous tier. Not much, but something. With rough moonstone still around 5p a piece, it's going to be a while before I see any Adept 3 upgrades for 61-70 spells.

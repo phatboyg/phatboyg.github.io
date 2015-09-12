@@ -1,0 +1,15 @@
+---
+author: chris
+comments: true
+date: 2006-05-03 15:31:53+00:00
+layout: post
+slug: paintnet
+title: Paint.NET
+wordpress_id: 310
+categories:
+- Software Development
+---
+
+I ran across this program while looking for some C# samples. This is an entire paint style application written in C# (source included, over 105,000 lines). It offers a lot of advanced Photoshop style features and is free. Something to think about if you need more than Paint offers but don't want to pony up the coin for Photoshop. It's pretty quick too and in many ways easier to use than Photoshop.
+
+[Paint.NET](http://www.eecs.wsu.edu/paint.net/index.html)

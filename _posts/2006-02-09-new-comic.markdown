@@ -1,0 +1,15 @@
+---
+author: chris
+comments: true
+date: 2006-02-09 20:26:05+00:00
+layout: post
+slug: new-comic
+title: New Comic
+wordpress_id: 238
+categories:
+- EQii
+---
+
+I found a new comic, might be worth a read. Seems to chronicle the adventures of the n00b. :)
+
+[http://www.thenoobcomic.com/index.html](http://www.thenoobcomic.com/index.html)

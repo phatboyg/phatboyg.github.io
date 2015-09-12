@@ -1,0 +1,19 @@
+---
+author: chris
+comments: true
+date: 2006-08-15 01:59:28+00:00
+layout: post
+slug: atlas
+title: Atlas
+wordpress_id: 374
+categories:
+- Software Development
+---
+
+Well, I've been buried in the source for the Atlas JavaScript library lately. Why? To make sure it's a solid solution for our needs at work. And so far, it's looking pretty slick. The features it adds to the language are slick as hell, and it's not adding any noticable time to page loads. The JSON/WS wrapper layer is just slick as snot on a finger in the rain, making people who thought XmlDocumentMethod was smart -- NOT!
+
+Web Services for Atlas shine when using C# types with full serialization. You can create/pass/return C# objects and access them from JavaScript with almost the same code. Pretty slick, particularly if you're building a proper application (presentation/web service/business layer/database). Lordy, is that 4-tier now?
+
+One thing that sucks right now is the JSON layer doesn't support [Begin|End]MethodName asynchronous web services yet, so I'm slightly concerned about choking the application pool during a database hiccup. I certainly hope they resolve this oversight soon, it's a mandatory feature for production high-volume sites.
+
+I'll probably write a few posts on some of the slick things in Atlas in the near future so stay tuned.

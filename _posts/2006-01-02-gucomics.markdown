@@ -1,0 +1,16 @@
+---
+author: chris
+comments: true
+date: 2006-01-02 18:02:22+00:00
+layout: post
+slug: gucomics
+title: GUComics
+wordpress_id: 223
+categories:
+- EQii
+---
+
+It's a new year at GUComics and Woody has some changes planned. I go to this site almost every day hoping to see what new humor has been cooked up. It's a great cartoon for those in the video game world. He routinely beats down WoW, EQ2, EQ and any company that tries to fling poo at the general gamer public.
+
+I highly recommend it as a regular read: [GUComics](http://www.gucomics.com/)
+

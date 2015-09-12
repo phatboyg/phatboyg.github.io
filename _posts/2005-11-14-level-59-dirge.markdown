@@ -1,0 +1,14 @@
+---
+author: chris
+comments: true
+date: 2005-11-14 00:31:39+00:00
+layout: post
+slug: level-59-dirge
+title: Level 59 Dirge
+wordpress_id: 200
+categories:
+- EQii
+---
+
+I managed to ding 59 on Friday night -- which turned out to be a late night. We messed around with some raids before going to Silent City for some XP. At this point, I've got enough vitality to get me through 60 so it should be smooth sailing. I think Thursday night I got 40% experience in like 2.5 hours, so hopefully something similar will occur soon.
+

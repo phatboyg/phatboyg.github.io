@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/phatboyg">
+<title>del.icio.us/phatboyg</title>
+<link>http://del.icio.us/phatboyg</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://forum.insanelymac.com/index.php?showtopic=46680" />
+  <rdf:li rdf:resource="http://www.youtube.com/profile?user=NufffRespect" />
+  <rdf:li rdf:resource="http://msdn.technetweb3.orcsweb.com/llobo/archive/2006/12/30/xamlpadx-v2.aspx" />
+  <rdf:li rdf:resource="http://www.snowball.be/default.aspx" />
+  <rdf:li rdf:resource="http://channel9.msdn.com/wiki/default.aspx/WPF.LearningWPF" />
+  <rdf:li rdf:resource="http://coredotnet.blogspot.com/2006/05/wpf-data-binding-tutorial.html" />
+  <rdf:li rdf:resource="http://www.dasblog.info/" />
+  <rdf:li rdf:resource="http://www.hibernate.org/343.html" />
+  <rdf:li rdf:resource="http://weblogs.asp.net/rosherove/archive/2007/06/04/alt-net-alternative-tools-and-approaches-to-mainstream-net.aspx" />
+  <rdf:li rdf:resource="http://daemonb.blogspot.com/2007/04/ultimate-vmware-link-guide.html" />
+  <rdf:li rdf:resource="http://forums.macrumors.com/showthread.php?t=265572" />
+  <rdf:li rdf:resource="http://www.codeguru.com/cpp/g-m/gdi/gdi/article.php/c10621/" />
+  <rdf:li rdf:resource="http://www.avsforum.com/avs-vb/showthread.php?t=572477" />
+  <rdf:li rdf:resource="http://www.scoobymods.com/forums/showthread.php?t=7683" />
+  <rdf:li rdf:resource="http://blogs.msdn.com/powershell/" />
+  <rdf:li rdf:resource="http://www.imagedynamicsusa.com/forum/viewtopic.php?t=2142" />
+  <rdf:li rdf:resource="http://www.audiogroupforum.com/csforum/index.php" />
+  <rdf:li rdf:resource="http://forums.openecu.org/viewtopic.php?t=618" />
+  <rdf:li rdf:resource="http://ipodifier.com/index.html" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/dvd/download-of-the-day-handbrake-all-platforms-254445.php" />
+  <rdf:li rdf:resource="http://www.jsonline.com/story/index.aspx?id=591289" />
+  <rdf:li rdf:resource="http://www.plasmatize.com/osecuroms/viewtopic.php?p=3472#3472" />
+  <rdf:li rdf:resource="http://support.microsoft.com/default.aspx?scid=kb;EN-GB;q271128&#x26;GSSNB=1" />
+  <rdf:li rdf:resource="http://www.opacity.us/" />
+  <rdf:li rdf:resource="http://www.xmpp.org/extensions/xep-0124.html" />
+  <rdf:li rdf:resource="http://zeank.in-berlin.de/jsjac/" />
+  <rdf:li rdf:resource="http://www.codeproject.com/cs/database/dal1.asp" />
+  <rdf:li rdf:resource="http://www.dotnetperformance.com/articleitem.aspx?id=3" />
+  <rdf:li rdf:resource="http://www.codeproject.com/useritems/Creating_Dynamic_Types2.asp" />
+  <rdf:li rdf:resource="http://www.codeproject.com/useritems/DatabaseCompare.asp" />
+  <rdf:li rdf:resource="http://bloggingabout.net/blogs/joshua/archive/2005/07/26/8675.aspx" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://forum.insanelymac.com/index.php?showtopic=46680">
+<title>Run AppleTV on your intel mac - uses local media or acts as a standalone appleTV, can QUIT - InsanelyMac Forum</title>
+<link>http://forum.insanelymac.com/index.php?showtopic=46680</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-06-08T16:35:44Z</dc:date>
+<dc:subject>apple appletv hack mac</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/appletv" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/profile?user=NufffRespect">
+<title>NufffRespect</title>
+<link>http://www.youtube.com/profile?user=NufffRespect</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-06-07T15:45:25Z</dc:date>
+<dc:subject>911 neocon nwo youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/911" />
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+    <rdf:li resource="http://del.icio.us/tag/neocon" />
+    <rdf:li resource="http://del.icio.us/tag/nwo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://msdn.technetweb3.orcsweb.com/llobo/archive/2006/12/30/xamlpadx-v2.aspx">
+<title>Lester's WPF blog : XamlPadX v2</title>
+<link>http://msdn.technetweb3.orcsweb.com/llobo/archive/2006/12/30/xamlpadx-v2.aspx</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-06-07T03:30:59Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.snowball.be/default.aspx">
+<title>Snowball - The Blog</title>
+<link>http://www.snowball.be/default.aspx</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-06-07T03:14:32Z</dc:date>
+<dc:subject>.net blog programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://channel9.msdn.com/wiki/default.aspx/WPF.LearningWPF">
+<title>Channel9 Wiki: LearningWPF</title>
+<link>http://channel9.msdn.com/wiki/default.aspx/WPF.LearningWPF</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-06-07T03:13:24Z</dc:date>
+<dc:subject>tutorial wpf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wpf" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://coredotnet.blogspot.com/2006/05/wpf-data-binding-tutorial.html">
+<title>core.net: WPF Data Binding Tutorial</title>
+<link>http://coredotnet.blogspot.com/2006/05/wpf-data-binding-tutorial.html</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-06-07T03:13:09Z</dc:date>
+<dc:subject>databinding wpf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wpf" />
+    <rdf:li resource="http://del.icio.us/tag/databinding" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dasblog.info/">
+<title>dasBlog - The Official Site</title>
+<link>http://www.dasblog.info/</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-06-05T19:01:56Z</dc:date>
+<dc:subject>.net asp.net blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+    <rdf:li resource="http://del.icio.us/tag/asp.net" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hibernate.org/343.html">
+<title>hibernate.org - NHibernate for .NET</title>
+<link>http://www.hibernate.org/343.html</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-06-05T18:25:53Z</dc:date>
+<dc:subject>.net c# nhibernate opensource orm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+    <rdf:li resource="http://del.icio.us/tag/orm" />
+    <rdf:li resource="http://del.icio.us/tag/nhibernate" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/c%23" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblogs.asp.net/rosherove/archive/2007/06/04/alt-net-alternative-tools-and-approaches-to-mainstream-net.aspx">
+<title>ALT.NET - Alternative tools and approaches to mainstream .NET - ISerializable - Roy Osherove's Blog</title>
+<link>http://weblogs.asp.net/rosherove/archive/2007/06/04/alt-net-alternative-tools-and-approaches-to-mainstream-net.aspx</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-06-05T18:12:31Z</dc:date>
+<dc:subject>.net alt.net development programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/alt.net" />
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://daemonb.blogspot.com/2007/04/ultimate-vmware-link-guide.html">
+<title>Virtualized Automaton: Ultimate VMware link guide</title>
+<link>http://daemonb.blogspot.com/2007/04/ultimate-vmware-link-guide.html</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-05-30T16:12:59Z</dc:date>
+<dc:subject>vmware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vmware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.macrumors.com/showthread.php?t=265572">
+<title>Free iTunes 2007 - Mac Forums</title>
+<link>http://forums.macrumors.com/showthread.php?t=265572</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-05-30T14:28:28Z</dc:date>
+<dc:subject>free ipod itunes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+    <rdf:li resource="http://del.icio.us/tag/itunes" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codeguru.com/cpp/g-m/gdi/gdi/article.php/c10621/">
+<title>CodeGuru: Make GDI+ Less Finicky About Fonts</title>
+<link>http://www.codeguru.com/cpp/g-m/gdi/gdi/article.php/c10621/</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-05-24T19:59:49Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.avsforum.com/avs-vb/showthread.php?t=572477">
+<title>TrueRTA-for-dummies - AVS Forum</title>
+<link>http://www.avsforum.com/avs-vb/showthread.php?t=572477</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-05-19T17:41:07Z</dc:date>
+<dc:subject>audio car diy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/car" />
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scoobymods.com/forums/showthread.php?t=7683">
+<title>Mod: Polk Audio DB650 install in front doors of 2003 Subaru Impreza - ScoobyMods</title>
+<link>http://www.scoobymods.com/forums/showthread.php?t=7683</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-05-11T12:51:16Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://blogs.msdn.com/powershell/">
+<title>Windows PowerShell Blog</title>
+<link>http://blogs.msdn.com/powershell/</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-05-10T14:21:11Z</dc:date>
+<dc:subject>.net blog development microsoft programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.imagedynamicsusa.com/forum/viewtopic.php?t=2142">
+<title>ImageDynamics Usa :: View topic - Info on the All new iDQ and the sX components</title>
+<link>http://www.imagedynamicsusa.com/forum/viewtopic.php?t=2142</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-05-10T03:47:36Z</dc:date>
+<dc:subject>audio car</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/car" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.audiogroupforum.com/csforum/index.php">
+<title>CARSOUND.COM Forum - Powered by vBulletin</title>
+<link>http://www.audiogroupforum.com/csforum/index.php</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-05-10T03:40:48Z</dc:date>
+<dc:subject>audio car</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/car" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.openecu.org/viewtopic.php?t=618">
+<title>openecu.org :: View topic - SH7058 vs IDA</title>
+<link>http://forums.openecu.org/viewtopic.php?t=618</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-05-03T04:52:05Z</dc:date>
+<dc:subject>openecu rom subaru</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/subaru" />
+    <rdf:li resource="http://del.icio.us/tag/openecu" />
+    <rdf:li resource="http://del.icio.us/tag/rom" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ipodifier.com/index.html">
+<title>iPodifier</title>
+<link>http://ipodifier.com/index.html</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-04-27T21:56:26Z</dc:date>
+<dc:subject>ipod software tools video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/dvd/download-of-the-day-handbrake-all-platforms-254445.php">
+<title>Download of the Day: HandBrake (All platforms) - Lifehacker</title>
+<link>http://lifehacker.com/software/dvd/download-of-the-day-handbrake-all-platforms-254445.php</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-04-24T20:04:47Z</dc:date>
+<dc:subject>dvd freeware ipod ripping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+    <rdf:li resource="http://del.icio.us/tag/ripping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jsonline.com/story/index.aspx?id=591289">
+<title>JS Online: Girl gives voice to new Chinese-American cartoon</title>
+<link>http://www.jsonline.com/story/index.aspx?id=591289</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-04-23T20:09:06Z</dc:date>
+<dc:subject>adoption chinese</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chinese" />
+    <rdf:li resource="http://del.icio.us/tag/adoption" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.plasmatize.com/osecuroms/viewtopic.php?p=3472#3472">
+<title>07 STI - Gabedude DD Stage 0</title>
+<link>http://www.plasmatize.com/osecuroms/viewtopic.php?p=3472#3472</link>
+<description>Free, open-source ECU ROM image for stock Subaru STI 2007 MY only</description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-04-23T18:09:16Z</dc:date>
+<dc:subject>ecu rom sti subaru</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/subaru" />
+    <rdf:li resource="http://del.icio.us/tag/sti" />
+    <rdf:li resource="http://del.icio.us/tag/ecu" />
+    <rdf:li resource="http://del.icio.us/tag/rom" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://support.microsoft.com/default.aspx?scid=kb;EN-GB;q271128&#x26;GSSNB=1">
+<title>PRB: Implicit Connections Created by the SQL Server OLE DB Provider (SQLOLEDB) Are Not Pooled</title>
+<link>http://support.microsoft.com/default.aspx?scid=kb;EN-GB;q271128&#x26;GSSNB=1</link>
+<description>Multiple connections</description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-04-20T22:11:48Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.opacity.us/">
+<title>opacity.us - Abandoned Photography and Urban Exploration</title>
+<link>http://www.opacity.us/</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-04-17T12:08:56Z</dc:date>
+<dc:subject>abandoned photography ruins</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/abandoned" />
+    <rdf:li resource="http://del.icio.us/tag/ruins" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.xmpp.org/extensions/xep-0124.html">
+<title>XEP-0124: Bidirectional-streams Over Synchronous HTTP (BOSH)</title>
+<link>http://www.xmpp.org/extensions/xep-0124.html</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-04-11T18:58:51Z</dc:date>
+<dc:subject>http jabber xmpp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/http" />
+    <rdf:li resource="http://del.icio.us/tag/xmpp" />
+    <rdf:li resource="http://del.icio.us/tag/jabber" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zeank.in-berlin.de/jsjac/">
+<title>a little bit of zeank &#xBB; JSJaC</title>
+<link>http://zeank.in-berlin.de/jsjac/</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-04-11T18:56:03Z</dc:date>
+<dc:subject>jabber javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/jabber" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codeproject.com/cs/database/dal1.asp">
+<title>A Data Access Layer to persist business objects using attributes and reflection - Part I - The Code Project - C# Database</title>
+<link>http://www.codeproject.com/cs/database/dal1.asp</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-04-10T12:33:12Z</dc:date>
+<dc:subject>.net database programming reflection</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reflection" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dotnetperformance.com/articleitem.aspx?id=3">
+<title>.NET Performance - Article</title>
+<link>http://www.dotnetperformance.com/articleitem.aspx?id=3</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-04-10T12:32:34Z</dc:date>
+<dc:subject>.net performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codeproject.com/useritems/Creating_Dynamic_Types2.asp">
+<title>Introduction to Creating Dynamic Types with Reflection.Emit Part 2 - The Code Project - .NET</title>
+<link>http://www.codeproject.com/useritems/Creating_Dynamic_Types2.asp</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-04-10T02:04:56Z</dc:date>
+<dc:subject>.net c# dotnet reflection</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dotnet" />
+    <rdf:li resource="http://del.icio.us/tag/reflection" />
+    <rdf:li resource="http://del.icio.us/tag/c%23" />
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codeproject.com/useritems/DatabaseCompare.asp">
+<title>Database Schema Comparison Utility - The Code Project - C# Samples</title>
+<link>http://www.codeproject.com/useritems/DatabaseCompare.asp</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-04-09T22:16:29Z</dc:date>
+<dc:subject>.net compare database schema tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/schema" />
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+    <rdf:li resource="http://del.icio.us/tag/compare" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bloggingabout.net/blogs/joshua/archive/2005/07/26/8675.aspx">
+<title>Joshua's .Net Tips : Managaging assembly versioning in NAnt</title>
+<link>http://bloggingabout.net/blogs/joshua/archive/2005/07/26/8675.aspx</link>
+<description></description>
+<dc:creator>PhatBoyG</dc:creator>
+<dc:date>2007-04-09T20:13:02Z</dc:date>
+<dc:subject>.net c# versioning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+    <rdf:li resource="http://del.icio.us/tag/c%23" />
+    <rdf:li resource="http://del.icio.us/tag/versioning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

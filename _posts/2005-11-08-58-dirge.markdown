@@ -1,0 +1,21 @@
+---
+author: chris
+comments: true
+date: 2005-11-08 17:49:00+00:00
+layout: post
+slug: 58-dirge
+title: 58 Dirge
+wordpress_id: 196
+categories:
+- EQii
+---
+
+I leveled my dirge up to 58 last night. This time, I got a whopping four new spells. Along with upgrades to my slow and ranged attack, I got a group rez and my special 58 spell, Cacaphony of Blades. This song rocks!
+
+Cacaphony of Blades gives a 12 second buff that adds an extra 170 dmg to every melee attack, along with interrupting the target. In doing a few instances last night (Ancient's Table, Cazel's Mesa, Harpy), we found that it was pretty sweet to prevent any stifles, etc. during the early parts of the fight. I'm most impressed with it, to say the least.
+
+On the raid side, we tried Terrorantula, but we've got some work to do in this area. It's a very hard encounter to say the least. We did Meeting of the Minds with little effort, I think it dropped before the second rounds of adds were spawned. We also did Angler, albeit somewhat short-handed since we just did it Thursday. Then we went to Zek and got some nice gear off the tremblar, including an amazing chest piece for scouts (Cryptic Mettalic Chestplate, or something like that). Very sweet.
+
+Oh, and we completed the Sha'ir ring event again with nothing dropping off the 67^^^ at the end of the fight. :(
+
+![Aimelia's Level History](http://www.phatboyg.com/eq2sig/levelHistory.php?playerId=109225106)

@@ -1,0 +1,17 @@
+---
+author: chris
+comments: true
+date: 2006-05-02 03:50:04+00:00
+layout: post
+slug: ie7-beta-2
+title: IE7 Beta 2
+wordpress_id: 308
+categories:
+- Windows
+---
+
+Okay, so, Firefox 1.5 pissed me off for the last time when I had problems using it with the ABC streaming site. Stupid flash support in 1.5.0.2 sucks so it is gone. Enough!
+
+But I needed my tabs, so I put IE7b2 on the game machine (XPS) and gave it a spin. After resetting some registry permissions so that it could be installed correctly, we're up and running. So far, so good. Seems to be fast, stable and has a very useful RSS browser. I'm stoked, no complaints yet.
+
+It even let me specify Google as the default search service. Way to play fair MS.

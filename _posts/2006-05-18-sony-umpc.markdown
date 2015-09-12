@@ -1,0 +1,22 @@
+---
+author: chris
+comments: true
+date: 2006-05-18 21:41:11+00:00
+layout: post
+slug: sony-umpc
+title: Sony UMPC
+wordpress_id: 326
+categories:
+- Technology
+---
+
+I panned this when I first saw it, but it's starting to look like a pretty slick device. Mind you, I despise any previous attempt by Sony to make a computer. They're just overpriced, under-supported and risky at best. But they do have that Sony Style.
+
+You can see the real deal on the [Sony Japan Site](http://www.jp.sonystyle.com/Style-a/Product/U/index.html).
+
+<!-- more -->
+
+[![SonyUMPC.jpg](/images/uploads/2006/05/SonyUMPC.jpg)
+](/images/uploads/2006/05/SonyUMPC.jpg)
+
+Okay, this thing is 150.2×32.2×95mm -- That's like 6" by 3.75" by 1.2" -- That thing is freaking small! And it weighs 540g -- that's what? A pound? That's madd!

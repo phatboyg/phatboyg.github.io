@@ -1,0 +1,159 @@
+<opml version="1.0">
+    <head>
+        <title>PhatBoyG subscriptions in Google Reader</title>
+    </head>
+    <body>
+        <outline title="development" text="development">
+            <outline text="AddressOf.com" title="AddressOf.com"
+                type="rss" xmlUrl="http://addressof.com/blog/atom.aspx" htmlUrl="http://addressof.com/blog/default.aspx"/>
+            <outline text="Ayende @ Rahien" title="Ayende @ Rahien"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/AyendeRahien" htmlUrl="http://ayende.com/Blog/Default.aspx"/>
+            <outline text="b#" title="b#" type="rss"
+                xmlUrl="http://feeds.feedburner.com/flux88" htmlUrl="http://www.flux88.com/"/>
+            <outline text="Brad Wilson - The .NET Guy"
+                title="Brad Wilson - The .NET Guy" type="rss"
+                xmlUrl="http://feeds.feedburner.com/BradWilson-ThenetGuy" htmlUrl="http://www.agileprogrammer.com/dotnetguy/"/>
+            <outline text="BrianDonahue.Persist()"
+                title="BrianDonahue.Persist()" type="rss"
+                xmlUrl="http://feeds.feedburner.com/bdpersist" htmlUrl="http://persistall.com/Default.aspx"/>
+            <outline text="Chris Holmes Online"
+                title="Chris Holmes Online" type="rss"
+                xmlUrl="http://www.chrisholmesonline.com/feed/" htmlUrl="http://www.chrisholmesonline.com"/>
+            <outline text="CodeBetter.Com" title="CodeBetter.Com"
+                type="rss"
+                xmlUrl="http://codebetter.com/blogs/MainFeed.aspx" htmlUrl="http://codebetter.com/blogs/"/>
+            <outline text="Coding Horror" title="Coding Horror"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/codinghorror/" htmlUrl="http://www.codinghorror.com/blog/"/>
+            <outline text="Coding in an Igloo"
+                title="Coding in an Igloo" type="rss"
+                xmlUrl="http://igloocoder.com/atom.aspx" htmlUrl="http://igloocoder.com/Default.aspx"/>
+            <outline text="DanNorth.net" title="DanNorth.net" type="rss"
+                xmlUrl="http://dannorth.net/feed" htmlUrl="http://dannorth.net"/>
+            <outline text="Driven to Develop" title="Driven to Develop"
+                type="rss" xmlUrl="http://blog.davidohara.net/feed/" htmlUrl="http://blog.davidohara.net"/>
+            <outline text="Dru Selleres" title="Dru Selleres" type="rss"
+                xmlUrl="http://feeds.feedburner.com/drusellers" htmlUrl="http://geekswithblogs.net/dsellers/Default.aspx"/>
+            <outline text="Eleutian SpeakENG Development Blog"
+                title="Eleutian SpeakENG Development Blog" type="rss"
+                xmlUrl="http://blog.eleutian.com/SyndicationService.asmx/GetAtom" htmlUrl="http://blog.eleutian.com/"/>
+            <outline text="Fear and Loathing" title="Fear and Loathing"
+                type="rss" xmlUrl="http://feeds.feedburner.com/bsimser" htmlUrl="http://weblogs.asp.net/bsimser/default.aspx"/>
+            <outline text="Hartmut's Box" title="Hartmut's Box"
+                type="rss"
+                xmlUrl="http://www.innoq.com/blog/hw/index.xml" htmlUrl="http://www.innoq.com/blog/hw/"/>
+            <outline text="InfoQ Personalized Feed for Chris Patterson"
+                title="InfoQ Personalized Feed for Chris Patterson"
+                type="rss"
+                xmlUrl="http://www.infoq.com/rss/rss.action?token=01fadELNfikRiUMWOX522qAsHCZfbykF" htmlUrl="http://www.infoq.com"/>
+            <outline text="IntelliJ IDEA Blog"
+                title="IntelliJ IDEA Blog" type="rss"
+                xmlUrl="http://blogs.jetbrains.com/idea/feed/atom/" htmlUrl="http://blogs.jetbrains.com/idea"/>
+            <outline text="ISerializable - Roy Osherove's Blog"
+                title="ISerializable - Roy Osherove's Blog" type="rss"
+                xmlUrl="http://feeds.feedburner.com/Iserializable" htmlUrl="http://weblogs.asp.net/rosherove/default.aspx"/>
+            <outline text="JayFlowers" title="JayFlowers" type="rss"
+                xmlUrl="http://feeds.feedburner.com/jayflowers/Ombs" htmlUrl="http://jayflowers.com/WordPress"/>
+            <outline text="Jean-Paul S. Boodhoo's Blog"
+                title="Jean-Paul S. Boodhoo's Blog" type="rss"
+                xmlUrl="http://feeds.feedburner.com/JPBoodhoo" htmlUrl="http://www.jpboodhoo.com/blog/"/>
+            <outline text="JetBrains .NET Tools Blog"
+                title="JetBrains .NET Tools Blog" type="rss"
+                xmlUrl="http://blogs.jetbrains.com/dotnet/feed/atom/" htmlUrl="http://blogs.jetbrains.com/dotnet"/>
+            <outline text="K. Scott Allen" title="K. Scott Allen"
+                type="rss"
+                xmlUrl="http://odetocode.com/Blogs/scott/atom.aspx" htmlUrl="http://odetocode.com/Blogs/scott/default.aspx"/>
+            <outline text="Los Techies" title="Los Techies" type="rss"
+                xmlUrl="http://www.lostechies.com/blogs/MainFeed.aspx" htmlUrl="http://www.lostechies.com/blogs/"/>
+            <outline text="Martin Fowler's Bliki"
+                title="Martin Fowler's Bliki" type="rss"
+                xmlUrl="http://www.martinfowler.com/bliki/bliki.atom" htmlUrl="http://martinfowler.com/bliki"/>
+            <outline text="Mike Cohn's Blog - Succeeding With Agile™"
+                title="Mike Cohn's Blog - Succeeding With Agile™"
+                type="rss"
+                xmlUrl="http://blog.mountaingoatsoftware.com/?feed=rss2" htmlUrl="http://blog.mountaingoatsoftware.com"/>
+            <outline text="Peli's Farm" title="Peli's Farm" type="rss"
+                xmlUrl="http://feeds.feedburner.com/pelisfarm" htmlUrl="http://blog.dotnetwiki.org/"/>
+            <outline text="Recently Posted Downloads on MSDN"
+                title="Recently Posted Downloads on MSDN" type="rss"
+                xmlUrl="http://msdn.microsoft.com/downloads/rss.xml" htmlUrl="http://msdn.microsoft.com/downloads/"/>
+            <outline text="Scott Hanselman's Computer Zen"
+                title="Scott Hanselman's Computer Zen" type="rss"
+                xmlUrl="http://feeds.feedburner.com/ScottHanselman" htmlUrl="http://www.hanselman.com/blog/"/>
+            <outline text="ScottGu's Blog" title="ScottGu's Blog"
+                type="rss"
+                xmlUrl="http://weblogs.asp.net/scottgu/rss.aspx" htmlUrl="http://weblogs.asp.net/scottgu/default.aspx"/>
+            <outline text="Sean Chambers" title="Sean Chambers"
+                type="rss" xmlUrl="http://schambers.wordpress.com/feed/" htmlUrl="http://schambers.wordpress.com"/>
+            <outline text="Testing Hotlist Update"
+                title="Testing Hotlist Update" type="rss"
+                xmlUrl="http://www.io.com/~wazmo/blog/atom.xml" htmlUrl="http://www.io.com/~wazmo/blog/"/>
+            <outline text="the 'bee log" title="the 'bee log" type="rss"
+                xmlUrl="http://feeds.feedburner.com/thebeelog" htmlUrl="http://codebetter.com/blogs/david_laribee/default.aspx"/>
+            <outline text="Udi Dahan - The Software Simplist"
+                title="Udi Dahan - The Software Simplist" type="rss"
+                xmlUrl="http://feeds.feedburner.com/UdiDahan-TheSoftwareSimplist" htmlUrl="http://udidahan.weblogs.us"/>
+            <outline text="Wunda's World" title="Wunda's World"
+                type="rss"
+                xmlUrl="http://wundasworld.blogspot.com/feeds/posts/default" htmlUrl="http://wundasworld.blogspot.com/"/>
+            <outline text="{codesqueeze}" title="{codesqueeze}"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/codesqueeze/blog" htmlUrl="http://www.codesqueeze.com"/>
+        </outline>
+        <outline title="apple" text="apple">
+            <outline text="9 to 5 Mac - Apple Intelligence"
+                title="9 to 5 Mac - Apple Intelligence" type="rss"
+                xmlUrl="http://www.9to5mac.com/rss.xml" htmlUrl="http://www.9to5mac.com"/>
+            <outline text="AppleInsider" title="AppleInsider" type="rss"
+                xmlUrl="http://www.appleinsider.com/appleinsider.rss" htmlUrl="http://www.appleinsider.com/"/>
+            <outline text="MacRumors : Mac News and Rumors"
+                title="MacRumors : Mac News and Rumors" type="rss"
+                xmlUrl="http://www.macrumors.com/macrumors.xml" htmlUrl="http://www.macrumors.com"/>
+            <outline text="Think Secret" title="Think Secret" type="rss"
+                xmlUrl="http://www.thinksecret.com/rss.xml" htmlUrl="http://www.thinksecret.com/"/>
+        </outline>
+        <outline title="racing" text="racing">
+            <outline text="MidWest Division" title="MidWest Division"
+                type="rss"
+                xmlUrl="http://sccaforums.com/forums/rss.aspx?ForumID=44&amp;Mode=0" htmlUrl="http://sccaforums.com/forums/44/ShowForum.aspx"/>
+        </outline>
+        <outline text="Bringing People Closer"
+            title="Bringing People Closer" type="rss"
+            xmlUrl="http://feeds.feedburner.com/BringingPeopleCloser" htmlUrl="http://crossloop.typepad.com/bringing_people_closer/"/>
+        <outline text="Chris Koenig" title="Chris Koenig" type="rss"
+            xmlUrl="http://feeds.feedburner.com/chriskoenig" htmlUrl="http://blogs.msdn.com/chkoenig/default.aspx"/>
+        <outline text="Comments for PhatBoyG.com"
+            title="Comments for PhatBoyG.com" type="rss"
+            xmlUrl="http://blog.phatboyg.com/comments/feed/" htmlUrl="http://blog.phatboyg.com"/>
+        <outline
+            text="Engadget - Comments for D-Link's DGL-4500 Gaming Router ready for purchase"
+            title="Engadget - Comments for D-Link's DGL-4500 Gaming Router ready for purchase"
+            type="rss"
+            xmlUrl="http://www.engadget.com/2007/10/25/d-links-dgl-4500-gaming-router-ready-for-purchase/comments.xml" htmlUrl="http://www.engadget.com/2007/10/25/d-links-dgl-4500-gaming-router-ready-for-purchase/"/>
+        <outline text="Girl Writes Code" title="Girl Writes Code"
+            type="rss"
+            xmlUrl="http://www.invisible-city.com/sharon/atom.xml" htmlUrl="http://www.invisible-city.com/sharon/"/>
+        <outline text="Homestar Runner" title="Homestar Runner"
+            type="rss"
+            xmlUrl="http://www.interglacial.com/rss/homestar.rss" htmlUrl="http://www.homestarrunner.com/"/>
+        <outline text="LosTechies Comments" title="LosTechies Comments"
+            type="rss"
+            xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=uANyqUdx3BGJpXW0CB2yXQ&amp;_render=rss" htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=uANyqUdx3BGJpXW0CB2yXQ"/>
+        <outline text="M is for Mama" title="M is for Mama" type="rss"
+            xmlUrl="http://misformama.blogspot.com/feeds/posts/default" htmlUrl="http://misformama.blogspot.com/"/>
+        <outline text="Mac Myth: Does it really just work?"
+            title="Mac Myth: Does it really just work?" type="rss"
+            xmlUrl="http://macmyth.blogspot.com/feeds/posts/default" htmlUrl="http://macmyth.blogspot.com/"/>
+        <outline text="Noheat - Tech News thats too Cool"
+            title="Noheat - Tech News thats too Cool" type="rss"
+            xmlUrl="http://www.noheat.com/feed/atom/" htmlUrl="http://www.noheat.com/"/>
+        <outline text="PhatBoyG - All Comments"
+            title="PhatBoyG - All Comments" type="rss"
+            xmlUrl="http://www.lostechies.com/blogs/chris_patterson/rsscomments.aspx" htmlUrl="http://www.lostechies.com/blogs/chris_patterson/default.aspx"/>
+        <outline
+            text="SiliconUser - Quality technology history articles."
+            title="SiliconUser - Quality technology history articles."
+            type="rss" xmlUrl="http://feeds.feedburner.com/SiliconUser" htmlUrl="http://www.siliconuser.com"/>
+    </body>
+</opml>

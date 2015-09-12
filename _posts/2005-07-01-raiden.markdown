@@ -1,0 +1,16 @@
+---
+author: chris
+comments: true
+date: 2005-07-01 15:06:46+00:00
+layout: post
+slug: raiden
+title: Raiden
+wordpress_id: 77
+categories:
+- General
+---
+
+If you have anything that you need to get done in the next few hours, do **not** visit this link:
+
+[RaidenX](http://www.flashplayer.com/games/raidenx_movie.php)
+

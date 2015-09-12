@@ -1,0 +1,15 @@
+---
+author: chris
+comments: true
+date: 2006-07-29 13:26:03+00:00
+layout: post
+slug: shure-e500
+title: Shure e500
+wordpress_id: 368
+categories:
+- Audio
+---
+
+Well, word is people are starting to get the first production run of the new [IEM](http://www.shure.com/PersonalAudio/Products/Earphones/ESeries/us_pa_E500_pth_content) from Shure this week. Several have posted on [head-fi](http://www6.head-fi.org/forums/showthread.php?t=191046) that their earphones have arrived, along with their early impressions. Even the [iPodLounge](http://www.ilounge.com/index.php/ipod/review/shure-e500pth-sound-isolating-earphones/) crew piped up with a glowing review of them.
+
+Mine have not arrived yet, but once they do you can be sure I'll post my comments on them. My current units (Shure e4c) are still doing quite well, but this new release from Shure is a major technological upgrade compared to the single-driver setup in the e4c and expectations are quite high for their sound.

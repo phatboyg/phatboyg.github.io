@@ -1,0 +1,32 @@
+---
+author: chris
+comments: true
+date: 2006-09-14 03:44:12+00:00
+layout: post
+slug: itunes-7
+title: iTunes 7
+wordpress_id: 391
+categories:
+- iPod
+---
+
+So Apple dropped iTunes 7 on Tuesday, offering up a new set of features to enhance the whole user experience gig. Here are some of my favorites:
+
+
+
+	
+  * Download cover art for all music, not just iTunes purchases.
+Since I ripped most of my music from CD in Apple Lossless, it is nice to automatically get the cover art without resorting to external utilities to find it.
+
+	
+  * Album view
+The album view with the cover art on the left and the track information on the right is choice.
+
+	
+  * Better QuickTime support
+The new QuickTime engine has better (albeit different) handling of higher sampling frequencies available with the Intel HD Audio renderer. In fact, I had to make some adjustment (including dropping back down to 16-bit) to get this to work. Hopefully they will tweak this and make it so that 88.1 Khz 24-bit playback is once again possible.
+
+
+There are many extra features that really help out and make it easier to use. This is a solid release, so grab it.
+
+Oh, yeah, it does movies too but I don't really care until they have a full-screen iPod with a decent size display. Until then, they can have them.

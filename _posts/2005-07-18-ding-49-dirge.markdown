@@ -1,0 +1,24 @@
+---
+author: chris
+comments: true
+date: 2005-07-18 01:14:33+00:00
+layout: post
+slug: ding-49-dirge
+title: Ding! 49 Dirge
+wordpress_id: 102
+categories:
+- EQii
+---
+
+Well, it took longer than I thought, but I hit level 49 today. A lame new spell at this level, so it's really just a minor level for me on the way to 50. I'm already almost 10% in since I was trying to finish another quest in Splitpaw.
+
+Other than that, I've been grouping with the guild most of the time as we try to do a few new things while people are busy/away for the weekend. I'm sure we'll get back to hard core raiding this week, but who knows what the plans are at this point. I still have a few heritage quests that I need to finish, along with some other general questing I'd like to get done as well.
+
+Live Update 12 is looking to have some interesting new features. The most interesting is the world-wide group invites/guild invites and the updated raid window that actually shows when people are dead (useful for raid-rez-machines like me).
+
+Signature Generator: I've been getting a lot of requests lately to offer up the source code to my signature generator. I'll try to wrap up a package in the next few days and make it available to the public. It's all PHP using GD2 and is component-based so it should be easy to just plug into any web site to display player/guild information. It doesn't have to just be used for graphics, there is a single function:
+
+`$player = getEQ2Player();`
+
+That will return a nested array (phpBB-style) of all the player information, level history, guild information, guild members, rank in the guild, all stats/death/level information, the whole works. Once I get it packaged up I'll post it here.
+

@@ -1,0 +1,17 @@
+---
+author: chris
+comments: true
+date: 2005-06-01 19:59:01+00:00
+layout: post
+slug: 43-dirge
+title: 43 Dirge
+wordpress_id: 48
+categories:
+- EQii
+---
+
+I reached level 43 last night and also completed the L&L; for lizards.
+
+I had the Rough Ruby refined into an Adept 3 version of Bereavement, which I got at level 43, so I was able to test it out. What a nice spell. Fast attack, drains lots of power, heals for around 100 and refreshes quickly. A very nice replacement for the quick-attack line.
+
+![](http://phatboyg.com/sigs/eq2sig.php?playerId=109225106)

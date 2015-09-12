@@ -1,0 +1,18 @@
+---
+author: chris
+comments: true
+date: 2005-05-27 18:08:25+00:00
+layout: post
+slug: ribbit
+title: Ribbit
+wordpress_id: 44
+categories:
+- EQii
+---
+
+They unleashed the frogs yesterday, so I decided to go ahead and do the quest to enable the force-sensitive, er, frog slot on my character. Not that I want to create one of these nasty turds, just because it's a nice bump in the completed quest count and who knows what else it unlocks.
+
+Then I went and created a new priest of Queynos and found at least a dozen of the little lizards bouncing around the island. 
+
+Anybody know of a way to /ignore a player so they don't show up at all???
+

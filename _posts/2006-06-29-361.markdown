@@ -1,0 +1,13 @@
+---
+author: chris
+comments: true
+date: 2006-06-29 21:58:33+00:00
+layout: post
+slug: '361'
+title: Internet Explorer 7 Beta 3 Released
+wordpress_id: 361
+categories:
+- Windows
+---
+
+Microsoft released IE 7 Beta 3 today. Download it [here](http://www.microsoft.com/downloads/details.aspx?familyid=4C1A8FBE-FB6A-47AC-867D-BB1F17E477EE).

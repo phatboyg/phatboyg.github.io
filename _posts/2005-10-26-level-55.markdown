@@ -1,0 +1,20 @@
+---
+author: chris
+comments: true
+date: 2005-10-26 16:10:15+00:00
+layout: post
+slug: level-55
+title: Level 55
+wordpress_id: 188
+categories:
+- EQii
+---
+
+Last night I put in some overtime and managed to ding 55 (okay, it was more like early this morning). I got a few great new spells, notably my T6 power regen (32/tick at Adept 3), my self-buff upgrade and my special spell Scream of Death. This is going to change how I solo if it works as advertised, at least for single target mobs with a single-up or higher. I'm not sure yet though.
+
+Presently pulling a single mob, I use Jael's (600-ish damage), followed by Lanet's and our Snare/Disease Debuff. Since Jael's now turns on ranged attack, I typically get a 600-800 pt bow attack in as well. So that's a good 1200 points of damage before the mob even reaches me. If the mob is really slow moving, I'll get a Luda's for around 1000 as well, giving it time to repop before the fight ends. Throw in a couple of proc's between the bow, prismatic and cobalt weapon, and you could easily get around 3000 damage on the mob before engaging with melee. Plus an upcoming pop for another 800 or so when Lanet's goes off.
+
+With Scream of Death, you have to be stealthed and within melee range. Not so good for me, since I do so much initial damage ranged. But it does 80, 80, 80, 80,80,180, 180, 180, 180, 180,270, 270, 270, 270, 270, with three seconds between each wave. In groups doing yellow triple ups, this is worthless as the mob doesn't even live long enough for Lanet's. In multi-target groups this is worthless since AoE normally kills everything so much faster no single mob lives for more than ten seconds. Epic mobs I'm sure it will be very mana efficient and a nice icing on the DPS cake. Aside from that, I'm not sure how useful it will be for anything other than single-up solo mobs.
+
+I also got some new furniture delivered, including a nice oak table with eight chairs. Very slick. I also bought a mailbox for my room for no reason other than to buy one. :)
+

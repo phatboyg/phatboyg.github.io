@@ -1,0 +1,14 @@
+---
+author: chris
+comments: true
+date: 2005-10-02 03:30:39+00:00
+layout: post
+slug: 52-dirge
+title: 52 Dirge!
+wordpress_id: 171
+categories:
+- EQii
+---
+
+I managed to ding 52 tonight. We've found some crazy zones in DoF so far, we even took a 60 Heroic with a single group. It was nuts, I'll leave it up to you to find it yourself. :)
+

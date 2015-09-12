@@ -1,0 +1,19 @@
+---
+author: chris
+comments: true
+date: 2006-02-24 14:07:42+00:00
+layout: post
+slug: 61-dirge
+title: 61 Dirge
+wordpress_id: 246
+categories:
+- EQii
+---
+
+I dinged 61 last night, in the sanctum, of course. I feel like I've been there for days, and I've still got another 75% of 62 to deal with as well. I'm a bit concerned about achievement points, they don't seem to be free-flowing as I had hoped. I went to every isle in TT and BS, but only have three points to my name. I guess it's just going to take some time.
+
+I did start the Wurmslayer signature quest (imagine that will spend some time in my journal for sure) and tried to find the gnomish crash site to no avail, so the tink bag quest will have to wait. Hopefully I can get into enough action this weekend to be 62 by Monday. I'm a bit concerned about some of the T6 raid content, seems that some unintended changes caused by LU20 affected some of the innate abilities of certain key NPC's in the zone. Hopefully the servers will stabilize to the point it is worth doing another run. Last night was actually pretty good, never had a crash and lag wasn't horrible.
+
+I found that turning lighting to minimal made a huge difference FPS-wise in the KoS zones. Even on a 6800 Ultra certain things just choke the system when you have three groups in the same room fighting multiple targets at one time. Might as well suffer visually so that the game remains playable through the new population increase.
+
+PS: The signature generator is suffering some occasional glitches as Sony tunes the EQ2Players site to support the new content. So certain areas may be wrong/mismatched at times until all the changes are worked into the site. Sony, how about an XML feed now so that we can (a) reduce the load on your web site and (b) get consistent reliable information on a single call to the site. We promise, we'll cache the results for at least 24 hours in return. :)
