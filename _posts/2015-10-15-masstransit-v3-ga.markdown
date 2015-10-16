@@ -1,7 +1,7 @@
 ---
 author: chris
 comments: true
-date: 2015-02-24 20:33:54+00:00
+date: 2015-10-16 02:36:54+00:00
 layout: post
 slug: masstransit-v3-ga
 title: MassTransit 3 General Availability
