@@ -5,12 +5,6 @@ date: 2015-10-16 02:36:54+00:00
 layout: post
 slug: masstransit-v3-ga
 title: MassTransit 3 General Availability
-categories:
-- .NET
-- Azure Service Bus
-- C#
-- MassTransit
-- RabbitMQ
 ---
 
 MassTransit 3 has been generally available for over a week now, and the response has been very positive. Based on mailing list activity, direct email, and the overall feedback many developers are updating their applications to the new version.
