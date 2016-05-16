@@ -1,7 +1,7 @@
 ---
 author: chris
 comments: true
-date: 2016-05-16 10:00:00-08:00
+date: 2016-05-16 10:00:00-07:00
 layout: post
 slug: tour-de-cure-masstransit
 title: Diabetes, Tour de Cure, and MassTransit
