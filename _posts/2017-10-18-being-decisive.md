@@ -1,5 +1,5 @@
 ---
-author: chris
+author: Chris
 comments: false
 date: 2017-10-18 00:00:00+00:00
 layout: post
@@ -7,7 +7,7 @@ slug: being-decisive
 title: Being Decisive
 ---
 
-A friend recently asked me how I make decisions so quickly. It wasn't a criticism about a choice I had made but a genuine desire to understand my thought process. And it wasn't the first time I was admired for (or perhaps accused of) being decisive. In fact, decision making is an essential skill for any competent leader.
+A friend recently asked me how I make decisions so quickly. It wasn't a criticism about a choice I had made but a genuine desire to understand my thought process. And it wasn't the first time I was admired for (or perhaps accused of) being decisive. In fact, decision making is an essential skill for any competent leader. What follows is an introduction to how I evaluate a choice and ultimately arrive at a decision.
 
 Now I will share this up front; not all decisions are simple, and not all decisions are quick. In fact, the amount of time spent making a decision varies based on several variables including urgency, importance, information, experience, and, surprisingly, instinct. Yes, your gut can tell you a lot about a choice.
 
@@ -34,7 +34,7 @@ When making an important decision that could affect others, I cannot emphasize e
 
 ## Is it something I want?
 
-When I want something, the desire to have it becomes the driving force in any decisions related to getting it. And that compulsion silences any logic in the decision-making process. My choices become biased towards getting what I want, and by refusing to acknowledge and adequately consider the risks, this emotionally fueled decision may minimize or likely even ignore potentially significant consequences.
+When I want something, the desire to have it becomes the driving force in any decisions related to getting it. And that compulsion silences any logic in the decision-making process. My choices become biased towards getting what I want, and by refusing to acknowledge and adequately consider the risks, this emotionally fueled decision may push me to minimize or likely even ignore potentially significant consequences.
 
 Recognizing that I am making an emotional decision is a crucial step, as I can then reintroduce logic going forward. At that point, and with a clear head, I can use my knowledge and experience to measure risk accurately, identify benefits, and raise concerns. It doesn't mean that I'm unbiased, I still want it, but I'm no longer acting purely on emotion.
 
@@ -43,21 +43,21 @@ The challenge is that most of the significant decisions we make involve things w
 
 ## Watch for rough spots!
 
-Even when I've made the "right" decision, there may be challenges down the road. A variable may change (duh, that's why they're called variables) leading to an unexpected constraint that impacts the original decision. By recognizing this possibility, I may defer aspects of the decision until a later time when more information might be available.
+Even when I think I've made the _right_ decision, there may be challenges down the road. A variable can change (duh, that's why they're called variables) leading to an unexpected constraint that impacts the original decision. By acknowledging this possibility, I may defer aspects of the decision until a later time when more information might be available.
 
 
 ## Minimize confusion
 
-Choice can significantly influence decision making, especially when there are numerous options available. Too many options can create confusion and become overwhelming. It is in these moments that having a list, such as a core set of attributes, values, or goals, which can be used to evaluate each option is invaluable. This knowledge can be combined with experience and weighed against previous decisions to assist in making the right choice. In some cases, I've already made a choice, and this exercise is purely for validation, to reassure myself that I've made the right decision.
+Choice can significantly influence decision making, especially when there are numerous options available. Too many options can create confusion and become overwhelming. It is in these moments that having a list, such as a core set of attributes, values, or goals, which can be used to evaluate each option is invaluable. This knowledge can be combined with experience and weighed against previous decisions to assist in making the right choice. In some cases, I've already made a choice, and this exercise is purely for validation, to reassure myself that I have indeed made the right decision.
 
 
 ## Minimize decisions
 
 It takes time and energy to make decisions and being forced to make too many of them can be exhausting. And when I'm exhausted, the last thing I want to do is make a choice. 
 
-For example, after a long bicycle ride, I nearly always end up at Chipotle and order my standard post-ride meal. I usually pick it up on the way home to avoid reaching for whatever I have on hand (hint: it's often M&M's, or ice cream, or both). Why the routine? Because it's easy, it's consistent, and it's quick. And I rarely have to wait in line, which means I don't have time to think about options.
+For example, after a long bicycle ride, I nearly always end up at Chipotle and order my standard post-ride meal. I usually pick it up on the way home to avoid reaching for whatever I have on hand (which is often M&M's, or ice cream, or both). Why the routine? Because it is easy, it's consistent, it's quick, and I rarely have to wait in line, which means I don't have time to think about options (like their new queso, yuck).
 
-Okay, so there is a dark consequence of this lifestyle. It can cause endless confusion when presented with a menu at an unfamiliar restaurant, leading to a complete inability to decide what to eat which annoys the hell out of the people around you. Particularly in line at the counter. At lunchtime. 
+> Okay, so there is a dark consequence of this lifestyle. It can cause endless confusion when presented with a menu at an unfamiliar restaurant, leading to a complete inability to decide what to eat which annoys the hell out of the people around you. Particularly in line at the counter. At lunchtime. 
 
 
 ## Conclusion
