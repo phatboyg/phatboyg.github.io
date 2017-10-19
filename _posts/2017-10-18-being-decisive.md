@@ -41,7 +41,7 @@ Recognizing that I am making an emotional decision is a crucial step, as I can t
 The challenge is that most of the significant decisions we make involve things we want. Whether it's a new car, a job promotion, a fitness goal, or a trip to the beach, wanting something usually leads to making choices.
 
 
-## Watch for rough spots.
+## Watch for rough spots!
 
 Even when I've made the "right" decision, there may be challenges down the road. A variable may change (duh, that's why they're called variables) leading to an unexpected constraint that impacts the original decision. By recognizing this possibility, I may defer aspects of the decision until a later time when more information might be available.
 
